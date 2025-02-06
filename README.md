@@ -118,7 +118,8 @@ Special thanks to tools like Roboflow, PyTorch, and Gradio for enabling the deve
 
 ---
 
-## Team Member
-Yash Nayi
-Parin Patel
-Yash Raythatha
+
+## Team Members:
+- **Yash Raythatha**
+- **Parin Patel**
+- **Yash Nayi**
