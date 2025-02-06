@@ -20,6 +20,7 @@ This project implements semantic segmentation using the **DeepLabV3** architectu
 - **Programming Language:** Python
 - **Deep Learning Frameworks:** PyTorch, torchvision
 - **Annotation Tools:** CVAT, Roboflow
+- **Parameter Analysing Tools:** ClearML
 - **Deployment:** Gradio, FastAPI
 - **Evaluation Metrics:** Mean IoU, Pixel Accuracy, Mean Accuracy
 - **Visualization:** Matplotlib, Gradio interface
